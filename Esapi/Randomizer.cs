@@ -16,7 +16,7 @@ namespace Owasp.Esapi
         private RandomNumberGenerator randomNumberGenerator = null;
 
         /// <summary>
-        /// Instantiates the class, with the apropriate algorithm.
+        /// Instantiates the class, with the appropriate algorithm.
         /// </summary>
         public Randomizer()
         {

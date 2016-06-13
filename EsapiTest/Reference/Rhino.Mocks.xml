@@ -1833,7 +1833,7 @@
         </member>
         <member name="T:Rhino.Mocks.Impl.DelegateTargetInterfaceCreator">
             <summary>
-            This class is reponsible for taking a delegate and creating a wrapper
+            This class is responsible for taking a delegate and creating a wrapper
             interface around it, so it can be mocked.
             </summary>
         </member>

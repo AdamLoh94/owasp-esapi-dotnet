@@ -16,7 +16,7 @@ namespace Owasp.Esapi
         public readonly string Event;
 
         /// <summary>
-        /// The number of occurences.
+        /// The number of occurrences.
         /// </summary>
         public readonly int MaxOccurences;
 
