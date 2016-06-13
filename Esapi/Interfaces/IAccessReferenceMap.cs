@@ -46,7 +46,7 @@ namespace Owasp.Esapi.Interfaces
         String RemoveDirectReference(Object direct);
         
         /// <summary> 
-        /// Update the refrences. This preserves any existing mappings for items that are still in the new
+        /// Update the references. This preserves any existing mappings for items that are still in the new
         /// list. You could regenerate new indirect references every time, but that might break anything 
         /// that previously used an indirect reference, such as a URL parameter.
         /// </summary>
